@@ -6,3 +6,8 @@ Responsive portfolio website made following the tutorial available in
 
 
 by [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+
+![preview-1](https://github.com/ClaudioNoggueira/responsive-portfolio-website-Alexa/blob/main/screenshots/Screenshot%202021-11-18%201.png)
+
+![preview-2](https://github.com/ClaudioNoggueira/responsive-portfolio-website-Alexa/blob/main/screenshots/Screenshot%202021-11-18%202.png)
